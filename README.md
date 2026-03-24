@@ -1,3 +1,7 @@
-My-first-project-
-Simple app created to practice programming.# My-first-project-
-Simple app created to practice programming.
+# My First Project
+
+This is my first project on GitHub.
+
+I am learning how GitHub works.
+
+Author: Marku
